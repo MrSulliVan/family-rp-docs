@@ -1,5 +1,6 @@
 site_name: Family RP Docs
 theme:
+  nav_style: dark
   name: material
   icon:
     repo: fontawesome/brands/github
